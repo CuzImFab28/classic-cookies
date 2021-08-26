@@ -1,0 +1,61 @@
+html {
+    scroll-behavior: smooth;
+    overflow: scroll;
+    overflow-x: hidden;
+}
+
+::-webkit-scrollbar {
+    width: 0;  
+    background: transparent;  
+}
+
+body {
+    margin: 0px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+/* CLASS */
+
+.header {
+    padding: 10px 16px;
+    background: #0B0C10;
+    border-bottom: solid;
+    border-color: #C5C6C7;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+/* .sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+} */
+
+.content {
+    padding: 16px;
+    background-color: #0B0C10;
+    color: whitesmoke;
+    text-align: center;
+    margin-top: 150px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* ID */
+
+/* #baroben {
+    background-color: #0B0C10;
+    width: 100%;
+    height: 50px;
+} */
+
+#sitename {
+    /* text-align: center; */
+    color: whitesmoke;
+    text-align: center;
+}

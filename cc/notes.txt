@@ -1,0 +1,13 @@
+PLANUNG
+- Menu icon + pop off Menu
+- cookie sound
+- password for page
+- change page icon
+
+
+Color sheme
+ #0B0C10    schwarz
+ #1F2833    cyan   
+ #C5C6C7    grau
+ #66FCF1    hell türkis
+ #45A29E    dunken türkis
